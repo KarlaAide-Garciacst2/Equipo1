@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A4C475521F762F4005BE3AB /* KarlaBBY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4C475421F762F4005BE3AB /* KarlaBBY.swift */; };
 		1A66C86921F7672A0062046B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A66C86821F7672A0062046B /* AppDelegate.swift */; };
 		1A66C86B21F7672A0062046B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A66C86A21F7672A0062046B /* ViewController.swift */; };
 		1A66C86E21F7672A0062046B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A66C86C21F7672A0062046B /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A4C475421F762F4005BE3AB /* KarlaBBY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KarlaBBY.swift; sourceTree = "<group>"; };
 		1A66C86521F7672A0062046B /* Example_EquipoMaster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Example_EquipoMaster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A66C86821F7672A0062046B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1A66C86A21F7672A0062046B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				1A66C89621F767D60062046B /* User.swift */,
 				1A66C89821F76AD30062046B /* Rulo.swift */,
 				1A66C89C21F76C950062046B /* RuloBB.swift */,
+				1A4C475421F762F4005BE3AB /* KarlaBBY.swift */,
 			);
 			path = Example_EquipoMaster;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A66C89D21F76C950062046B /* RuloBB.swift in Sources */,
+				1A4C475521F762F4005BE3AB /* KarlaBBY.swift in Sources */,
 				1A66C86B21F7672A0062046B /* ViewController.swift in Sources */,
 				1A66C86921F7672A0062046B /* AppDelegate.swift in Sources */,
 				1A66C89721F767D60062046B /* User.swift in Sources */,
